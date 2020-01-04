@@ -7,3 +7,4 @@ end
   def Cat=("meow")
     put "meow"
   end
+end
