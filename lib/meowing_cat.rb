@@ -4,7 +4,7 @@ class Cat
   attr_accessor :name 
 end
   
-  def Cat=("meow")
-    put "meow"
+  def name=(meow)
+    @put name_meow"
   end
 end
