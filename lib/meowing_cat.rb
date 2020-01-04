@@ -4,6 +4,6 @@ class Cat
   attr_accessor :name 
 end
   
-  def Cat
+  def Cat=("meow")
     put "meow"
   end
